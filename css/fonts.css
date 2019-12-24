@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap');
+
+@font-face {
+    font-family: "robo_bold";
+    src: url("../fonts/robo bold.ttf");
+}
+
+@font-face {
+    font-family: open_sans;
+    src: url("../fonts/openSans.ttf");
+}
+
+@font-face {
+    font-family: rosalinda;
+    src: url("../fonts/Rosalinda Regular.ttf");
+}
+@font-face {
+    font-family: open_bold;
+    src: url("../fonts/open-sans-bold.ttf");
+}
+
+
+
+/**@font-face {
+    font-family: "My" , sans-serif;
+    src:url("../fonts/ass.otf");
+}
+
+@font-face {
+    font-family: "My_new";
+    src:url("../fonts/17963.otf");
+}*/
